@@ -39,7 +39,7 @@ const projects = [
     {
         title: "Maharashtra Politics Analysis",
         points: [
-            "Tools: Power BI | SQL | Advanced Excel",
+            "Tools: Power BI | Python | Advanced Excel",
             "Techniques: Voter Demographics, Trend Analysis",
             "Outcome: Predicted voter turnout with 85% accuracy",
             "Business Impact: Helped political parties target the right voter groups."
@@ -47,7 +47,7 @@ const projects = [
     },
     {
         title: "Zomato Sales Analytics",
-        date: "Nov 2023",
+        date: "Oct 24",
         points: [
             "Techniques: Customer Segmentation, Revenue Optimization",
             "Outcome: Increased revenue by 20%",
@@ -55,23 +55,22 @@ const projects = [
         ]
     },
     {
-        title: " CRM Customer Churn Analysis ",
+        title: " Olist Store Analysis ",
         date: "Aug 2024",
         points: [
-            "Tools: Tableau | SQL | Excel",
-            "Techniques: Churn Prediction, Customer Segmentation ",
-            "Outcome: Improved retention by 20%",
-            "Business Impact: Suggested loyalty programs for high-risk customers."
+            "Tools: Tableau | SQL | Excel | Power BI",
+            "Techniques: Revenue, Customer Segmentation ",
+            "Outcome: Improved revenue by 20%",
+            "Business Impact: Optimized delivery time and pricing strategy."
         ]
     },
     {
-        title: "Bank Loan Risk Analysis",
-        date: "April 2022",
+        title: "Book Recommendations",
+        date: "April 24",
         points: [
-            "Tools: Power BI | SQL | Advanced Excel",
-            "Techniques: Risk Assessment, Loan Default Prediction",
-            "Outcome: Reduced loan default by 25%",
-            "Business Impact: Faster loan processing with 35% automation."
+            "Tools: Python, Matplotlib, Seaborn, Feature Engineering",
+            "Outcome: increases customers interest",
+            "Business Impact: Helping customer to find best book."
         ]
     }
 ];
